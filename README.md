@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **self-taught programmer** and a current stu
 ---
 
 ## 🚀 About Me
-- 🌱 **Learning & Growing**: I’m currently diving deep into software development, expanding my skills in **Python**, **PHP**, **JavaScript**, and **jQuery**.
+- 🌱 **Learning & Growing**: I’m currently diving deep into software development, expanding my skills in **C, Python**, **PHP**, **JavaScript**, and **jQuery**.
 - 🛠️ **What I Build**: 
   - Automation bots across various platforms.
   - User interfaces with Python.
